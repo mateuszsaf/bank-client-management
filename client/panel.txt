@@ -1,0 +1,22 @@
+- - - - - - - - - - - - - - - - - - - - - -
+Imię: Mateusz
+Nazwisko: Safarzyński
+Ulica: Majolikowa
+Numer domu: 23
+Pesel: 1998033843
+Data urodzenia: 23123123123
+Numer telefonu: -1981736065
+Obywatelstwo: Polskie
+- - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - -
+Imię: Jan
+Nazwisko: Kowalski
+Ulica: Polna
+Numer domu: 12
+Pesel: 34234234
+Data urodzenia: 324
+Numer telefonu: 3
+Obywatelstwo: Polskie
+- - - - - - - - - - - - - - - - - - - - - -
+

@@ -1,0 +1,2 @@
+Mateusz; Safarzyński; Majolikowa; 23; 1998033843; 23123123123; -1981736065; Polskie;
+Jan; Kowalski; Polna; 12; 34234234; 324; 3; Polskie;
