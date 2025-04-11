@@ -20,3 +20,36 @@ Numer telefonu: 3
 Obywatelstwo: Polskie
 - - - - - - - - - - - - - - - - - - - - - -
 
+- - - - - - - - - - - - - - - - - - - - - -
+Imię: Krzysztof
+Nazwisko: Stanowski
+Ulica: Krajowa
+Numer domu: 23
+Pesel: 23213123
+Data urodzenia: 31231231
+Numer telefonu: 3123123
+Obywatelstwo: Polskie
+- - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - -
+Imię: dwad
+Nazwisko: dawd
+Ulica: awd
+Numer domu: 232
+Pesel: 232
+Data urodzenia: 23
+Numer telefonu: 232
+Obywatelstwo: daw
+- - - - - - - - - - - - - - - - - - - - - -
+
+- - - - - - - - - - - - - - - - - - - - - -
+Imię: dwad
+Nazwisko: wdad
+Ulica: wad
+Numer domu: 232
+Pesel: 32
+Data urodzenia: 23
+Numer telefonu: 23
+Obywatelstwo: Polskie
+- - - - - - - - - - - - - - - - - - - - - -
+

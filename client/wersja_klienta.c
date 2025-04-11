@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+#ifdef _WIN32
+#include <windows.h>
+#endif
 
 int pesel, numer_tel, nr_domu;
 char imie[40], nazwisko[40], adres[100], obywatelstwo[50], data_urodzenia[100], ulica[30];
@@ -98,7 +101,11 @@ void dodaj_klienta() {
     // - - - - - - - - - - - - - - - - - - - - - - - >
 
     printf("Klient został dodany! Powracam do menu...\n");
-    sleep(2);
+    #ifdef _WIN32
+    Sleep(470); // 100 ms
+    #else
+    usleep(470000); // 100000 us = 100 ms
+    #endif
 
 }
 
@@ -147,10 +154,19 @@ int main() {
 
         for(int i = 0; i < 100; i++) {
             pasek(i);
+            
+            #ifdef _WIN32
+            Sleep(7); 
+            #else
             usleep(7000);
+            #endif
         }
         printf("\nŁadowanie zakończone!\n");
-        usleep(470000);
+        #ifdef _WIN32
+        Sleep(470); // 100 ms
+        #else
+        usleep(470000); // 100000 us = 100 ms
+        #endif
 
         // - - - - - - - - >
         clear();

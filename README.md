@@ -22,3 +22,7 @@ System do zarządzania klientami banku w formie prostego programu konsolowego. P
 
 - **panel.txt** - Plik tekstowy, w którym przechowywane są dane klientów w formacie czytelnym dla człowieka.
 - **msexcel.txt** - Plik, który zapisuje dane klientów w sposób umożliwiający ich import do arkuszy kalkulacyjnych (np. Excel, Google Sheets).
+
+## 📦 Pobierz aplikację
+
+➡️ [Pobierz wersję MacOS (.exec)](./src/bank_client_managmentv10.exec)
