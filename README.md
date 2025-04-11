@@ -25,4 +25,4 @@ System do zarządzania klientami banku w formie prostego programu konsolowego. P
 
 ## 📦 Pobierz aplikację
 
-➡️ [Pobierz wersję MacOS (.exec)](./src/bank_client_managmentv10.exec)
+➡️ [Pobierz wersję MacOS (.exec)](./client/bank_client_managmentv10.exec)
