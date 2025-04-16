@@ -3,10 +3,13 @@
 #include <unistd.h>
 #ifdef _WIN32
 #include <windows.h>
+#define clear() system("cls")
+#else
+#define clear() system("clear")
 #endif
 
-int pesel, numer_tel, nr_domu;
-char imie[40], nazwisko[40], adres[100], obywatelstwo[50], data_urodzenia[100], ulica[30];
+int nr_domu;
+char imie[40], nazwisko[40], adres[100], obywatelstwo[50], data_urodzenia[100], ulica[30], pesel[12], numer_tel[15];
 
 void pasek(int moment) {
     const int dlugosc_paska = 50;
@@ -24,11 +27,6 @@ void pasek(int moment) {
     }
     printf("] %3d%%", moment);
     fflush(stdout);
-}
-
-
-void clear() {
-    system("clear");
 }
 
 void dodaj_klienta() {
@@ -53,13 +51,13 @@ void dodaj_klienta() {
     scanf("%d", &nr_domu);
 
     printf("Podaj pesel: ");
-    scanf("%d", &pesel);
+    scanf("%s", &pesel);
 
     printf("Podaj datę urodzenia (np. 07/04/2000): ");
     scanf("%s", data_urodzenia);
 
     printf("Podaj numer telefonu: ");
-    scanf("%d", &numer_tel);
+    scanf("%s", &numer_tel);
 
     printf("Podaj obywatelstwo: ");
     scanf("%s", obywatelstwo);
