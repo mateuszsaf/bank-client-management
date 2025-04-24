@@ -1,55 +1,24 @@
+
+
 - - - - - - - - - - - - - - - - - - - - - -
 Imię: Mateusz
 Nazwisko: Safarzyński
 Ulica: Majolikowa
 Numer domu: 23
-Pesel: 1998033843
-Data urodzenia: 23123123123
-Numer telefonu: -1981736065
+Pesel: 1241231233
+Data urodzenia: 12/34/2022
+Numer telefonu: 21321313
 Obywatelstwo: Polskie
 - - - - - - - - - - - - - - - - - - - - - -
 
 - - - - - - - - - - - - - - - - - - - - - -
-Imię: Jan
-Nazwisko: Kowalski
-Ulica: Polna
-Numer domu: 12
-Pesel: 34234234
-Data urodzenia: 324
-Numer telefonu: 3
-Obywatelstwo: Polskie
-- - - - - - - - - - - - - - - - - - - - - -
-
-- - - - - - - - - - - - - - - - - - - - - -
-Imię: Krzysztof
-Nazwisko: Stanowski
-Ulica: Krajowa
+Imię: Monika
+Nazwisko: Safarzyńska
+Ulica: Majolikowa
 Numer domu: 23
-Pesel: 23213123
-Data urodzenia: 31231231
-Numer telefonu: 3123123
-Obywatelstwo: Polskie
-- - - - - - - - - - - - - - - - - - - - - -
-
-- - - - - - - - - - - - - - - - - - - - - -
-Imię: dwad
-Nazwisko: dawd
-Ulica: awd
-Numer domu: 232
-Pesel: 232
-Data urodzenia: 23
-Numer telefonu: 232
-Obywatelstwo: daw
-- - - - - - - - - - - - - - - - - - - - - -
-
-- - - - - - - - - - - - - - - - - - - - - -
-Imię: dwad
-Nazwisko: wdad
-Ulica: wad
-Numer domu: 232
-Pesel: 32
-Data urodzenia: 23
-Numer telefonu: 23
+Pesel: 2147483647
+Data urodzenia: 213132132
+Numer telefonu: 2147483647
 Obywatelstwo: Polskie
 - - - - - - - - - - - - - - - - - - - - - -
 

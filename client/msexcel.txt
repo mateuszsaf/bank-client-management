@@ -1,5 +1,3 @@
-Mateusz; Safarzyński; Majolikowa; 23; 1998033843; 23123123123; -1981736065; Polskie;
-Jan; Kowalski; Polna; 12; 34234234; 324; 3; Polskie;
-Krzysztof; Stanowski; Krajowa; 23; 23213123; 31231231; 3123123; Polskie;
-dwad; dawd; awd; 232; 232; 23; 232; daw;
-dwad; wdad; wad; 232; 32; 23; 23; Polskie;
+
+Mateusz; Safarzyński; Majolikowa; 23; 1241231233; 12/34/2022; 21321313; Polskie;
+Monika; Safarzyńska; Majolikowa; 23; 2147483647; 213132132; 2147483647; Polskie;
